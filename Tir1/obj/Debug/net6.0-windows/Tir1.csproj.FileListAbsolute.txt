@@ -1,0 +1,120 @@
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\Tir1.exe
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\Tir1.deps.json
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\Tir1.runtimeconfig.json
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\Tir1.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\Tir1.pdb
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.csproj.AssemblyReference.cache
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.Form1.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.csproj.GenerateResource.cache
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.AssemblyInfoInputs.cache
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.AssemblyInfo.cs
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.csproj.CoreCompileInputs.cache
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.dll
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\refint\Tir1.dll
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.pdb
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.genruntimeconfig.cache
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\ref\Tir1.dll
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.ResultForm.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.GameForm.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.osugame.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.Properties.Resources.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MainForm.resources
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.csproj.CopyComplete
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MapMaker.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.CreateMap.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MyLvlsMain.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.SetMusic.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.AddMusic.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MainLvlsMain.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.LvlForm.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.Pause.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.LogInForm.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.SingInForm.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.AddPic.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.AccountForm.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.EditAcc.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MySkins.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.BoxForm.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.OpenBox.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.NewSkin.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.SkinStore.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.SettingsForm.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.FriendsForm.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.LeaderbordForm.resources
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\Krypton.Toolkit.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Docking.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Navigator.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\savch\Desktop\tir\Tir1\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Workspace.dll
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MiniGamesF.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.DifficultyForm.resources
+C:\Users\savch\Desktop\tir\Tir1\obj\Debug\net6.0-windows\Tir1.temp.resources
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\Tir1.exe
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\Tir1.deps.json
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\Tir1.runtimeconfig.json
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\Tir1.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\Tir1.pdb
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\Krypton.Toolkit.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\NAudio.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Docking.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Navigator.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Ribbon.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Toolkit.dll
+C:\Лабы 2\tir\Tir1\bin\Debug\net6.0-windows\ComponentFactory.Krypton.Workspace.dll
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.csproj.AssemblyReference.cache
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.AccountForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.AddPic.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.EditAcc.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.FriendsForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.LogInForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.SingInForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.Form1.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.GameForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MiniGamesF.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.osugame.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.DifficultyForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.LeaderbordForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.LvlForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.Pause.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.ResultForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.AddMusic.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.CreateMap.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MapMaker.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.SetMusic.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MainForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MainLvlsMain.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MyLvlsMain.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.SettingsForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.Properties.Resources.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.BoxForm.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.MySkins.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.NewSkin.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.OpenBox.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.SkinStore.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.temp.resources
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.csproj.GenerateResource.cache
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.AssemblyInfoInputs.cache
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.AssemblyInfo.cs
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.csproj.CoreCompileInputs.cache
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.csproj.CopyComplete
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.dll
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\refint\Tir1.dll
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.pdb
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\Tir1.genruntimeconfig.cache
+C:\Лабы 2\tir\Tir1\obj\Debug\net6.0-windows\ref\Tir1.dll

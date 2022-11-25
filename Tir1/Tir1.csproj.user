@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="abiba.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="AccountForms\AccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountForms\AddPic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountForms\EditAcc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountForms\FriendsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountForms\LogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountForms\SingInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForms\GameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForms\MiniGamesF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForms\osugame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LvlForms\DifficultyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LvlForms\LeaderbordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LvlForms\LvlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LvlForms\Pause.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LvlForms\ResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MapMakerForms\AddMusic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MapMakerForms\CreateMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MapMakerForms\MapMaker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MapMakerForms\SetMusic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuForms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuForms\MainLvlsMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuForms\MyLvlsMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuForms\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StroreForms\BoxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StroreForms\MySkins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StroreForms\NewSkin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StroreForms\OpenBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StroreForms\SkinStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Switch.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="temp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
